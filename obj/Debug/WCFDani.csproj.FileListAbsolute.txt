@@ -1,0 +1,10 @@
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\bin\Debug\WCFDani.dll.config
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\bin\Debug\WCFDani.dll
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\bin\Debug\WCFDani.pdb
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\obj\Debug\WCFDani.csproj.AssemblyReference.cache
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\obj\Debug\WCFDani.csproj.CoreCompileInputs.cache
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\obj\Debug\WCFDani.dll
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\obj\Debug\WCFDani.pdb
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\bin\Debug\ClassLibDani1.dll
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\bin\Debug\ClassLibDani1.pdb
+C:\Users\mandy\Desktop\VS_Danail\WCFDani\obj\Debug\WCFDani.csproj.CopyComplete
